@@ -1,0 +1,79 @@
+{
+    "welcome": {
+        "title": "Dear adventurer, Welcome to the vast world of Dawnlight.",
+        "description": "This is the world where Creeds engraved a War without end in sight. Relentless clash of beliefs and the unyielding pursuit of salvation."
+    },
+    
+    "explaining_world1":"In the passing of centuries, the flames of the War disappeared. However, a deep scar of the ancient battle resonated through time. From horizon to horizon, a breathtaking wasteland stretches far and wide.",
+
+    "explaining_world2":"The fate of humanity rests within your hands, brave adventurers. Will you champion the cause of Scientia, embracing the brilliance of science? Or shall you align with the enigmatic Magia, delving into the arcane mysteries of wizardry? Alternatively, perhaps you will heed the call of Hybrida, seeking to bridge the gap between science and magic to usher in a new era of salvation.",
+
+    "faction_action_row": {
+        "placeholder": "Faction",
+        "option": [
+            {
+                "label": "Scientia",
+                "value": "scientia",
+                "emoji": "1138643150395678730"
+            },
+            {
+                "label": "Magia",
+                "value": "magia",
+                "emoji": "1138643148248191057"
+            },
+            {
+                "label": "Hybrida",
+                "value": "hybrida",
+                "emoji": "1138643144620118107"
+            }
+        ]
+    },
+
+    "scientia": {
+        "flag": "https://i.imgur.com/byZqCv5.png",
+        "title": "Scientia",
+        "description": "Masters of technology, [Scientia] thrives in the wasteland with advanced machines and innovation, shaping the world through engineering prowess.",
+        "fields": [
+            {
+                "name": "Knowledge Resilience",
+                "value": "Natural affinity for machines. Gain enhanced resistance to technological hazards and debuffs."
+            },
+            {
+                "name": "Inventor's Insight",
+                "value": "Innate knack for innovation. You have a chance to discover hidden blueprints or craft advanced gadgets."
+            }
+        ]
+    },
+
+    "magia": {
+        "flag": "https://i.imgur.com/fAPLkOe.png",
+        "title": "Magia",
+        "description": "[Magia] commands the arcane arts, wielding magic to reshape the wasteland and control its energies, invoking ancient powers.",
+        "fields": [
+            {
+                "name": "Ethereal Harmony",
+                "value": "Attuned to mystical energies, you can understand the mana flow in your body, helping you to develop new spells."
+            },
+            {
+                "name": "Arcane Affinity",
+                "value": "Intuitive connection to magical artifacts. You can sense nearby magical items or locations, aiding in their exploration."
+            }
+        ]
+    },
+
+    "hybrida": {
+        "flag": "https://i.imgur.com/ipxH25q.png",
+        "title": "Hybrida",
+        "description": "Emerging from science and magic, [Hybrida] possess a dynamic blend of technological mastery and mystical aptitude, shaping a new order in the post-war wasteland.",
+        "fields": [
+            {
+                "name": "Fusion Mastery",
+                "value": "Merge science and magic. You can cast spells while utilizing technological equipment, enhancing their spellcasting with tech augmentations."
+            },
+            {
+                "name": "Adaptive Synthesis",
+                "value": "You gain temporary buffs when transitioning between technological and magical terrains, enhancing their versatility."
+            }
+        ]
+    }
+}

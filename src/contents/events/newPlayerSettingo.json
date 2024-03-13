@@ -1,0 +1,143 @@
+{
+    "welcome": {
+        "en": {
+            "title": "Dear adventurer, Welcome to the vast world of Dawnlight.",
+            "description": "This is the world where Creeds engraved a War without end in sight. Relentless clash of beliefs and the unyielding pursuit of salvation."
+        },
+        "ja": {
+            "title": "親愛なる冒険者よ、広大なドーンライトの世界へようこそ。",
+            "description": "信条によって、この世界は終わりなき『戦火』に包まれた。真っ向からぶつかり合う信念と、ただ救済を乞う人類がその中にいた。"
+        }
+    },
+    "explaining_world1": {
+        "en": "In the passing of centuries, the flames of the War disappeared. However, a deep scar of the ancient battle resonated through time. From horizon to horizon, a breathtaking wasteland stretches far and wide.",
+        "ja": "世紀を跨ぐうちに、戦火は消滅した。しかし、古代の戦争は深い傷跡を後世に残した。地平線から地平線へ、荒れ果てた土地が延々と続く。"
+    },
+    "explaining_world2": {
+    "en": "The fate of humanity rests within your hands, brave adventurers. Will you champion the cause of Scientia, embracing the brilliance of science? Or shall you align with the enigmatic Magia, delving into the arcane mysteries of wizardry? Alternatively, perhaps you will heed the call of Hybrida, seeking to bridge the gap between science and magic to usher in a new era of salvation.",
+    "ja": "制御不能な魔力、環境汚染、そしてデブリ。太古の戦火は幾千もの危険な生物を誕生させた。これらの生物は人類を追い詰め、未知の力によって変容した地域は、かつての美しい風景を歪め、生態系を崩壊させた。人々は新たな戦いに直面し、荒野の中で生き延びるために団結しました。科学と魔法の力を結集して、危険な存在に立ち向かい、人間性を守るために奮闘しています。"
+    },
+    "faction_action_row": {
+        "en": {
+            "placeholder": "Faction",
+            "option": [
+                {
+                    "label": "Scientia",
+                    "value": "scientia",
+                    "emoji": "1138643150395678730"
+                },
+                {
+                    "label": "Magia",
+                    "value": "magia",
+                    "emoji": "1138643148248191057"
+                },
+                {
+                    "label": "Hybrida",
+                    "value": "hybrida",
+                    "emoji": "1138643144620118107"
+                }
+            ]
+        },
+        "jp": {
+            "placeholder": "党派",
+            "option": [
+                { "label": "サイエンティア" },
+                { "label": "マギア" },
+                { "label": "ハイブリダ" }
+            ]
+        }
+    },
+    "faction_scientia": {
+        "flag": "https://i.imgur.com/byZqCv5.png",
+        "en": {
+            "title": "Scientia",
+            "description": "Masters of technology, [Scientia] thrives in the wasteland with advanced machines and innovation, shaping the world through engineering prowess.",
+            "fields": [
+                {
+                    "name": "Knowledge Resilience",
+                    "value": "Natural affinity for machines. Gain enhanced resistance to technological hazards and debuffs."
+                },
+                {
+                    "name": "Inventor's Insight",
+                    "value": "Innate knack for innovation. You have a chance to discover hidden blueprints or craft advanced gadgets."
+                }
+            ]
+        },
+        "jp": {
+            "title": "",
+            "description": "",
+            "fields": [
+                {
+                    "name": "",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    "faction_magia": {
+        "flag": "https://i.imgur.com/fAPLkOe.png",
+        "en": {
+            "title": "Magia",
+            "description": "[Magia] commands the arcane arts, wielding magic to reshape the wasteland and control its energies, invoking ancient powers.",
+            "fields": [
+                {
+                    "name": "Ethereal Harmony",
+                    "value": "Attuned to mystical energies, you can understand the mana flow in your body, helping you to develop new spells."
+                },
+                {
+                    "name": "Arcane Affinity",
+                    "value": "Intuitive connection to magical artifacts. You can sense nearby magical items or locations, aiding in their exploration."
+                }
+            ]
+        },
+        "jp": {
+            "title": "",
+            "description": "",
+            "fields": [
+                {
+                    "name": "",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        }
+    },
+    "faction_hybrida": {
+        "flag": "https://i.imgur.com/ipxH25q.png",
+        "en": {
+            "title": "Hybrida",
+            "description": "Emerging from science and magic, [Hybrida] possess a dynamic blend of technological mastery and mystical aptitude, shaping a new order in the post-war wasteland.",
+            "strength": [
+                {
+                    "name": "Fusion Mastery",
+                    "value": "Merge science and magic. You can cast spells while utilizing technological equipment, enhancing their spellcasting with tech augmentations."
+                },
+                {
+                    "name": "Adaptive Synthesis",
+                    "value": "You gain temporary buffs when transitioning between technological and magical terrains, enhancing their versatility."
+                }
+            ]
+        },
+        "jp": {
+            "title": "",
+            "description": "",
+            "strength": [
+                {
+                    "name": "",
+                    "value": ""
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        }
+    }
+}

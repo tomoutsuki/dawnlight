@@ -1,0 +1,85 @@
+[
+    {
+        "itemId": "tincture_of_herbs",
+        "image":"https://i.imgur.com/uW73dCv.png",
+        "name":"Tincture of Herbs",
+        "description": "Herbal medicine that grants a mild health boost and cleanses minor ailments, brewed from wild herbs found in the wasteland",
+        "base_value": 140,
+        "effects": [
+            { "name": "addHp", "amount": 20},
+            { "name": "purification", "level": 1}
+        ]
+    },
+    {
+        "itemId": "vial_of_healing",
+        "image":"https://i.imgur.com/NlR22X1.png",
+        "name":"Vial of Healing",
+        "description": "Restorative potion that swiftly heals wounds, a vital tool for adventurers in the midst of battle or recovery.",
+        "base_value": 220,
+        "effects": [
+            { "name": "addHp", "amount": 50},
+            { "name": "purification", "level": 1}
+        ]
+    },
+    {
+        "itemId": "coffee_candy",
+        "image":"https://i.imgur.com/uZBz0uC.png",
+        "name":"Coffee Candy",
+        "description": "A caffeinated treat that provides a quick energy boost, sharpening focus and dispelling fatigue for a short duration.",
+        "base_value": 80,
+        "effects": [
+            { "name": "speedBoost", "amount": 10}
+        ]
+    },
+    {
+        "itemId": "vial_of_mana",
+        "image":"https://i.imgur.com/cOCROef.png",
+        "name":"Vial of Mana",
+        "description": "Magical potion replenishing mana energy, essential for spellcasters seeking to restore their magical prowess during intense encounters.",
+        "base_value": 250,
+        "effects": [
+            { "name": "addMp", "amount": 30}
+        ]
+    },
+    {
+        "itemId": "vial_of_antidote",
+        "image":"https://i.imgur.com/PSiJ5t7.png",
+        "name":"Vial of Antidote",
+        "description": "Potent remedy that counteracts toxins, a crucial tool for survival in a wander in wasteland.",
+        "base_value": 150,
+        "effects": [
+            { "name": "purification", "level": 3}
+        ]
+    },
+    {
+        "itemId": "flask_with_acid",
+        "image":"https://i.imgur.com/6C7kwcU.png",
+        "name":"Flask with Acid",
+        "description": "Corrosive substance capable of melting through obstacles or weakening foes' armor, a tactical tool for alchemists and strategists.",
+        "base_value": 280,
+        "effects": [
+            { "name": "damage", "type": "corrosive", "amount": 50},
+            { "name": "armorBreak", "level": 1}
+        ]
+    },
+    {
+        "itemId": "mechanical_grenade",
+        "image":"https://i.imgur.com/vVDXt9o.png",
+        "name":"Mechanical Grenade",
+        "description": "Deployable explosive device with shrapnel, crafted by skilled engineers, ideal for disrupting enemy formations or dealing area-of-effects damage.",
+        "base_value": 420,
+        "effects": [
+            {"name": "damage", "type": "explosive", "amount": 80}
+        ]
+    },
+    {
+        "itemId": "fire_grenade",
+        "image":"https://i.imgur.com/qHtAS6X.png",
+        "name":"Fire Grenade",
+        "description": "Incendiary explosive designed to create a burst of flames, useful for controlling crowds or inflicting fiery chaos on adversaries.",
+        "base_value": 420,
+        "effects": [
+            {"name": "damage", "type": "fire", "amount": 80}
+        ]
+    }
+]

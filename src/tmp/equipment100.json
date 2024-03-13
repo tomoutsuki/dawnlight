@@ -1,0 +1,28 @@
+[
+    {
+        "equipmentId": "miners_helmet",
+        "image": "https://i.imgur.com/2Onnyz0.png",
+        "name": "Miner's Helmet",
+        "description": "Miner's Helmet emanates an ethereal glow, revealing hidden ores in dark caverns. Enhanced with protective enchantments, it ensures both illumination and safety for intrepid underground adventurers.",
+        "baseValue": 350,
+        "effects": [
+            {
+                "name": "addDefense",
+                "parameter": 3
+            }
+        ]
+    },
+    {
+        "equipmentId": "leather_tunic",
+        "image": "https://i.imgur.com/4RRJcqL.png",
+        "name": "Leather Tunic",
+        "description": "Simple tunic crafted from Low Grade Leather, it offers lightweight yet sturdy protection. Ideal for starter traveler.",
+        "baseValue": 250,
+        "effects": [
+            {
+                "name": "addDefense",
+                "parameter": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "userId": "909577577738408017",
+        "joinDate": "2023-08-16T20:05:22.505+00:00",
+        "name": "Keyaki",
+        "language": "en",
+        "faction": "Scientia",
+        "coin": 2000,
+
+        "level": 5,
+        "xp": 20,
+    
+        "location": "65e4cf8f1eb9ba92229a7b67",
+        "vital": {
+            "max": 128,
+            "now": 128,
+            "regen": 5
+        },
+        "mana": {
+            "max": 102,
+            "now": 102,
+            "regen": 5
+        },
+        "stamina": {
+            "max":   68,
+            "now":   68,
+            "regen": 5
+        },
+        "truePower": 8,
+        "trueDefense": 4,
+        "power": 12,
+        "defense": 8,
+        "speed": 5,
+        "afinity": 8,
+        "dexterity": 5,
+    
+        "equipments": [
+            {
+                "equipment": "65e346aab9976db3bb896c1d",
+                "amount": 1,
+                "equipped": true
+            },
+            {
+                "equipment": "65e346aab9976db3bb896c20",
+                "amount": 1,
+                "equipped": true
+            }
+        ],
+    
+        "items": [
+            {
+                "item": "65e334e70a469037dac89093",
+                "amount": 3
+            },
+            {
+                "item": "65e334e80a469037dac89097",
+                "amount": 1
+            },
+            {
+                "item": "65e334e80a469037dac8909b",
+                "amount": 1
+            }
+        ],
+    
+        "skills": [
+            "65e3ca3b95c66d2a4a9d9a2a",
+            "65e3ca3b95c66d2a4a9d9a2d"
+        ]
+    }
+]

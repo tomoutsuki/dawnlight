@@ -1,0 +1,42 @@
+{
+    "shardore": {
+        "color": "0xeb9534",
+        "title": "Welcome to Shardore!",
+        "description": "Shardore is a bustling city situated at the crossroads of trade routes, making it a melting pot of various cultures.",
+        "thumbnail": "https://i.imgur.com/zGYd8Ve.jpeg",
+        "fields": [
+            {
+                "name": "Market and Auction Hall",
+                "value": "The market district is filled with lively merchants and traders, while the residential district offers a quieter atmosphere."
+            }, {
+                "name": "Adventurer's Guild Head Quarter",
+                "value": "A gathering place for those seeking quests and adventures. Here, players can take on various missions, earn rewards, and meet fellow adventurers."
+            }
+        ],
+        "shop": {
+            "emoji": "<:crystal:1211350554949845042>",
+            "title": "Baldrog Emporium",
+            "description": "Curated by the master dwarf Baldrog Stonebeard. You can find from weaponry to vast range of items, it's a renowned haven for adventurers dawning their legends.\n**Visit here > **<#1211204638255349802>"
+        },
+        "guild": {
+            "emoji": "",
+            "title": "Noble Warheads",
+            "description": "Emblematic destination for brave travelers. Here, you can meet other explorers, obtain quests, and gain wealth, status and fame."
+        }
+    },
+    "aetheria": {
+        "thumbnail": "https://i.imgur.com/1WSs5Sk.jpg",
+        "shop": {
+            "title": "Bluerose Atelier"
+        },
+        "guild": {
+            "title": "Filemantles"
+        }
+    },
+    "citadel": {
+        "thumbnail": "https://i.imgur.com/7qJIMvN.jpg"
+    },
+    "eldergate": {
+        "thumbnail": "https://i.imgur.com/gvpIBMl.jpg"
+    }
+}

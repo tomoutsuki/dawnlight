@@ -1,0 +1,38 @@
+[
+    {
+        "locationId": "shardore",
+        "name": "Shardore",
+        "x": 0,
+        "y": 0,
+        "shop": {
+            "shopId": "baldrog_emporium",
+            "multiplier": 1.15,
+            "products": [
+                {
+                    "product": "65e334e70a469037dac89093",
+                    "type": "Item"
+                },
+                {
+                    "product": "65e334e80a469037dac89097",
+                    "type": "Item"
+                },
+                {
+                    "product": "65e334e80a469037dac8909b",
+                    "type": "Item"
+                },
+                {
+                    "product": "65e334e80a469037dac8909e",
+                    "type": "Item"
+                },
+                {
+                    "product": "65e346aab9976db3bb896c1d",
+                    "type": "Equipment"
+                },
+                {
+                    "product": "65e346aab9976db3bb896c20",
+                    "type": "Equipment"
+                }
+            ]
+        }
+    }
+]

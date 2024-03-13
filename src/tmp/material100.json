@@ -1,0 +1,30 @@
+[
+    {
+        "materialId": "low_grade_leather",
+        "image": "https://i.imgur.com/XzU2CDa.png",
+        "name": "Low Grade Leather",
+        "description": "Harvested from animal hides, it serves as a resilient material, essential for crafting durable armor and weapons in the wasteland.",
+        "baseValue": "130"
+    },
+    {
+        "materialId": "rusty_gears",
+        "image": "https://i.imgur.com/Cgoa6ZB.png",
+        "name": "Rusty Gears",
+        "description": "Salvaged from low-level creatures, these basic machine parts are crucial for crafting and repairing machinery in the post-apocalyptic world of Dawnlight.",
+        "baseValue": "80"
+    },
+    {
+        "materialId": "machinery_grease",
+        "image": "https://i.imgur.com/Mw7nAGc.png",
+        "name": "Machinery Grease",
+        "description": "Heavy oil which maintains and enhance the performance of intricate machines, ensuring they operate smoothly in the harsh conditions of the wasteland",
+        "baseValue": "90"
+    },
+    {
+        "materialId": "smogling_core",
+        "image": "https://i.imgur.com/hWhKCWu.png",
+        "name": "Smogling Core",
+        "description": "Core orb obtained from Smoglings. This orb pulsates with potent energy and mana, offering a formidable resource for crafting powerful weapons.",
+        "baseValue": "2100"
+    }
+]

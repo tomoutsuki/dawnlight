@@ -1,0 +1,15 @@
+{
+    "baldrog_emporium": {
+        "sign": "https://i.imgur.com/dyyup8q.png",
+        "city": "Shardore City",
+        "title": "Welcome, traveler!",
+        "description": "Curated by the master dwarf Baldrog Stonebeard. You can find from weaponry to vast range of items, it's a renowned haven for adventurers dawning their legends.",
+        "image": "https://i.imgur.com/Ytq4LIj.jpeg",
+        "items": [
+            { "id": "tincture_of_herbs", "price": 150},
+            { "id": "vial_of_healing", "price": 220},
+            { "id": "coffee_candy", "price": 80},
+            { "id": "vial_of_mana", "price": 250}
+        ]
+    }
+}

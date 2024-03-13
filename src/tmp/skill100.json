@@ -1,0 +1,45 @@
+[
+    {
+        "skillId": "wind_blade",
+        "name": "Wind Blade",
+        "description": "A spell harnessing air's power to slash through enemies, swift and relentless.",
+        "chance": 90,
+        "targetType": "single",
+        "cost": {
+            "mana": 10,
+            "stamina": 0
+        },
+        "effects": [
+            { "name": "damage", "parameter": 20 }
+        ]
+    },
+    {
+        "skillId": "flame_strike",
+        "name": "Flame Strike",
+        "description": "Invoke fire in your strike, engulfing foes in searing flames. A small burst of fire burns the enemy.",
+        "chance": 90,
+        "targetType": "single",
+        "cost": {
+            "mana": 10,
+            "stamina": 0
+        },
+        "effects": [
+            { "name": "damage", "parameter": 25 }
+        ]
+    },
+    {
+        "skillId": "poison_flare",
+        "name": "Poison Flare",
+        "description": "Spell which ignites toxic bursts, casting a virulent radiance that afflicts enemies with venomous damages.",
+        "chance": 95,
+        "targetType": "grouped",
+        "cost": {
+            "mana": 20,
+            "stamina": 0
+        },
+        "effects": [
+            { "name": "damage", "parameter": 10 },
+            { "name": "venom", "parameter": 1 }
+        ]
+    }
+]

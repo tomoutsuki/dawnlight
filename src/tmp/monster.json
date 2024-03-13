@@ -1,0 +1,153 @@
+{
+    "array": [
+      {
+        "image": "https://i.imgur.com/Dvofl8n.jpg",
+        "monsterId": "junkling",
+        "name": "Junkling",
+        "vital": {
+          "max": 12,
+          "now": 12,
+          "regen": 0
+        },
+        "power": 2,
+        "defense": 3,
+        "speed": 2,
+        "behaviors": [
+          {
+            "name": "attack",
+            "chance": 100,
+            "targetType": "single"
+          }
+        ],
+        "elements": [
+          {
+            "name": "fire",
+            "parameter": 1
+          }
+        ],
+        "drops": [
+          {
+            "drop": "65df95dd56cd9020888c7972",
+            "type": "Item",
+            "chance": 10
+          }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/Pxs0mkq.jpg",
+        "monsterId": "mana_sprout",
+        "name": "Mana Sprout",
+        "vital": {
+          "max": 14,
+          "now": 14,
+          "regen": 0
+        },
+        "power": 3,
+        "defense": 2,
+        "speed": 2,
+        "behaviors": [
+          {
+            "name": "attack",
+            "chance": 70
+          },
+          {
+            "name": "useSkill",
+            "chance": 30,
+            "skill": "65dfd6a06e7ca3bdfef9be7b"
+          }
+        ],
+        "elements": [
+          {
+            "name": "wind",
+            "parameter": 1
+          }
+        ],
+        "drops": [
+          {
+            "drop": "65df95de56cd9020888c7976",
+            "type": "Item",
+            "chance": 5
+          },
+          {
+            "drop": "65df95de56cd9020888c797d",
+            "type": "Item",
+            "chance": 5
+          }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/2fBtVuO.jpg",
+        "monsterId": "mad_mole",
+        "name": "Mad Mole",
+        "vital": {
+          "max": 21,
+          "now": 21,
+          "regen": 0
+        },
+        "power": 4,
+        "defense": 2,
+        "speed": 2,
+        "equipments": [
+          {
+            "equipment": "65dff6816e7ca3bdfef9be7c"
+          }
+        ],
+        "behaviors": [
+          {
+            "name": "attack",
+            "chance": 100
+          }
+        ],
+        "elements": [
+          {
+            "name": "earth",
+            "parameter": 1
+          }
+        ],
+        "drops": [
+          {
+            "drop": "65dff6816e7ca3bdfef9be7c",
+            "type": "Equipment",
+            "chance": 5
+          }
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/mPnxDiJ.jpg",
+        "monsterId": "scrapkin",
+        "name": "Scrapkin",
+        "vital": {
+          "max": 14,
+          "now": 14,
+          "regen": 0
+        },
+        "power": 3,
+        "defense": 4,
+        "speed": 2,
+        "behaviors": [
+          {
+            "name": "attack",
+            "chance": 80
+          },
+          {
+            "name": "useSkill",
+            "chance": 20,
+            "skill": "65dff95b6e7ca3bdfef9be7d"
+          }
+        ],
+        "elements": [
+          {
+            "name": "earth",
+            "parameter": 1
+          }
+        ],
+        "drops": [
+          {
+            "drop": "65df95dd56cd9020888c7972",
+            "type": "Item",
+            "chance": 5
+          }
+        ]
+      }
+    ]
+  }
